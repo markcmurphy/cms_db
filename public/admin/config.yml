@@ -1,5 +1,5 @@
 backend:
-  name: cms_db
+  name: git-gateway
   # branch: development # Branch to update (optional; defaults to master)
 
 # local_backend: true
